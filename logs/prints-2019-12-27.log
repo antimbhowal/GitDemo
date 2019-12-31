@@ -1,0 +1,8 @@
+23:03:12.215 [main] INFO  resources.Base - Navigated to home page
+23:03:12.691 [main] INFO  resources.Base - Header successfully validated
+23:03:22.608 [main] INFO  resources.Base - Navigated bar is displayed
+23:10:50.251 [main] INFO  resources.Base - non-restricteduser
+23:11:02.211 [main] INFO  resources.Base - restricteduser
+23:11:05.324 [main] INFO  resources.Base - Driver is initialized
+23:11:28.563 [main] INFO  resources.Base - Navigated to home page
+23:11:29.480 [main] INFO  resources.Base - Header successfully validated

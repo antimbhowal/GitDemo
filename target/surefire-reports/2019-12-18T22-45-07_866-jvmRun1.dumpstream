@@ -1,0 +1,6 @@
+# Created at 2019-12-18T22:45:58.910
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:31309
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-AGEE0J4V', ip: '192.168.43.127', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_192'
+Driver info: driver.version: RemoteWebDriver
+
